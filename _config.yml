@@ -1,0 +1,13 @@
+title: Harku's sunbath ground
+email: harku85697708@hotmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my sunbath ground. Let's take a sunbath just like a seal!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: harku85697708
+github_username:  HarkuLi
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
