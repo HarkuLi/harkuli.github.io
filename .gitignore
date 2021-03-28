@@ -1,3 +1,5 @@
 /.bundle
 /vendor
 /_site
+
+.DS_Store
